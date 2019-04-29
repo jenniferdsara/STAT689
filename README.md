@@ -1,10 +1,10 @@
 # STAT689
 
-# Project Name
+## Project Name
 
 Least Squares Support Vector Regression in R: Investigating Outlier-Sensitivity in Machine Learning Models 
 
-# Project Report
+## Project Report
 
 The project report and codes are integrated into a Jupyter notebook named project.ipynb, which can be found in the file.
 
